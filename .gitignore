@@ -1,0 +1,5 @@
+# Local experimental outputs and temporary files
+*.log
+*.tmp
+.DS_Store
+.vscode/

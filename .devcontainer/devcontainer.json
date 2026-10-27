@@ -1,0 +1,8 @@
+{
+  "name": "Advanced Databases - Index Research",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
+  "postCreateCommand": "bash scripts/start-mysql.sh"
+}
